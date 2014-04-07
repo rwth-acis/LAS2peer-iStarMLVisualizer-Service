@@ -2,11 +2,11 @@
 /tmp
 /.idea
 /.las2peer
-/startup
+
 /log
 /lib
 etc/ivy/ivy.jar
 /service
-/etc/startup
+
 /out
 *.iml
